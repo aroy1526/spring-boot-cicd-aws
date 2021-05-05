@@ -21,4 +21,4 @@ phases:
       - echo post build
 artifacts:
   files:
-    - target\spring-boot-hello-world-rest-api-0.0.1-SNAPSHOT.jar
+    - target/spring-boot-hello-world-rest-api-0.0.1-SNAPSHOT.jar
